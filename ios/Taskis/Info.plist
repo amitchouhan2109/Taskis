@@ -46,7 +46,7 @@
 	<key>NSLocationUsageDescription</key>
 	<string>$(PRODUCT_NAME) would like access to your location services to get address through map</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string/>
+	<string></string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>$(PRODUCT_NAME) would like to use your microphone (for videos) to capture video</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
